@@ -1,11 +1,11 @@
 ## Tezz App ##
 
 ```
-* SQL for db
+> SQL for db
 ```
 ```
-* The android app
+> The android app
 ```
 ```
-* php Files for server
+> php Files for server
 ```
